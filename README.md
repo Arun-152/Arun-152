@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a MERN Stack Full Stack Developer with experience building modern, scalable, and user-centric web applications. I specialize in developing responsive frontend interfaces and robust backend systems using JavaScript technologies, and I'm passionate about writing clean, maintainable code and continuously learning new technologies to improve software quality and development efficiency.
 
