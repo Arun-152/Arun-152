@@ -68,7 +68,7 @@ A full-featured e-commerce application with user authentication, product managem
 ### 🚗 [Car Wash Service Booking System](https://car-wash-virid.vercel.app/)
 A service booking platform featuring online appointment scheduling, secure payment integration, booking management, and an admin panel.
 
-### 🏆 [Sports Live Score Application]([https://github.com/YOUR_GITHUB_USERNAME/E-Sports](https://github.com/Arun-152/E-sports)
+### 🏆 [Sports Live Score Application](https://github.com/Arun-152/E-sports)
 A real-time sports application providing live cricket and football scores, match details, league standings, and fixtures.
 
 ### 🎬 [Netflix Clone](https://github.com/Arun-152/netflix-clone)
@@ -81,7 +81,7 @@ A responsive movie streaming interface with authentication, watchlist functional
 | Repository | Description |
 |---|---|
 | [StarBucks](https://github.com/Arun-152/starbucks_clone) |Starbucks application clone|
-| [LeetCode](https://leetcode.com/u/arunp234/) | Data structures & algorithms solutions |
+| [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
 | [Car Wash Service](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
 | [E-Sports](https://github.com/Arun-152/E-Sports) | Live sports score application |
 | [Netflix Clone](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
@@ -94,8 +94,14 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true)
+![GitHub Stats](https://github.com/Arun-152/car-wash)
+
+</div>
+## 📊 Leetcode Stats
+
+<div align="center">
+
+![Leetcode Stats](https://leetcode.com/u/arunp234/)
 
 </div>
 
@@ -103,7 +109,7 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](linkedin.com/in/arun-p-090626279)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/arun-p-090626279)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arun-152)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
