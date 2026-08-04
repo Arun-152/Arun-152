@@ -80,12 +80,12 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 | Repository | Description |
 |---|---|
-| [JavaScript](https://github.com/Arun-152/JavaScript) | Core JavaScript concepts and practice |
-| [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
+| [StarBucks](https://github.com/Arun-152/starbucks_clone) |Starbucks application clone|
+| [LeetCode](https://leetcode.com/u/arunp234/) | Data structures & algorithms solutions |
 | [Car Wash Service](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
 | [E-Sports](https://github.com/Arun-152/E-Sports) | Live sports score application |
-| [Netflix Clone](https://github.com/Arun-152/Netflix-Clone) | Movie streaming interface clone |
-| [OLX Clone](https://github.com/Arun-152/netflix-clone) | Classifieds marketplace clone |
+| [Netflix Clone](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
+| [OLX Clone](https://github.com/Arun-152/olx-clone) | Classifieds marketplace clone |
 | [AppyFiz](https://github.com/Arun-152/AppyFiz) | Full-stack application project |
 
 ---
@@ -103,7 +103,7 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](linkedin.com/in/arun-p-090626279)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](linkedin.com/in/arun-p-090626279)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arun-152)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
