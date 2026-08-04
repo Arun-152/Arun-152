@@ -18,7 +18,7 @@ I'm a MERN Stack Full Stack Developer with experience building modern, scalable,
 - 🌱 Currently exploring **Advanced MERN Stack Architecture**, **TypeScript**, **AI-Powered Development Workflows**, and **System Design & Performance Optimization**
 - 🤖 Actively working with AI-assisted development tools and cloud-based development platforms
 - 🤝 Open to collaborating on innovative software projects
-- 📫 Reach me at: **nmsarun33@gmail.com**
+- 📫 Reach me at: nmsarun33@gmail.com
 
 ---
 
@@ -103,7 +103,7 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-p-090626279)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arun-152)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmsarun33@gmail.com)
 
 ---
 
