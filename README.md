@@ -90,6 +90,16 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 ---
 
+## 🌐 GitHub Contribution Graph — 3D View
+
+<div align="center">
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
 ## 📊 Leetcode Stats
 
 <div align="center">
