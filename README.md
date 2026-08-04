@@ -65,7 +65,7 @@ I'm a MERN Stack Full Stack Developer with experience building modern, scalable,
 ### 🛒 [E-Commerce Platform]([https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME](https://github.com/Arun-152/Shoezy)
 A full-featured e-commerce application with user authentication, product management, order processing, payment integration, and an administrative dashboard.
 
-### 🚗 [Car Wash Service Booking System]([[https://github.com/YOUR_GITHUB_USERNAME/Car-Wash-Service](https://github.com/Arun-152/car-wash](https://car-wash-virid.vercel.app/))
+### 🚗 [Car Wash Service Booking System](https://car-wash-virid.vercel.app/)
 A service booking platform featuring online appointment scheduling, secure payment integration, booking management, and an admin panel.
 
 ### 🏆 [Sports Live Score Application](https://github.com/YOUR_GITHUB_USERNAME/E-Sports)
