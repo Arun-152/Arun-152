@@ -62,16 +62,16 @@ I'm a MERN Stack Full Stack Developer with experience building modern, scalable,
 
 ## 💼 Featured Projects
 
-### 🛒 [E-Commerce Platform]([https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME](https://github.com/Arun-152/Shoezy)
+### 🛒 [E-Commerce Platform](https://github.com/Arun-152/Shoezy)
 A full-featured e-commerce application with user authentication, product management, order processing, payment integration, and an administrative dashboard.
 
 ### 🚗 [Car Wash Service Booking System](https://car-wash-virid.vercel.app/)
 A service booking platform featuring online appointment scheduling, secure payment integration, booking management, and an admin panel.
 
-### 🏆 [Sports Live Score Application](https://github.com/YOUR_GITHUB_USERNAME/E-Sports)
+### 🏆 [Sports Live Score Application]([https://github.com/YOUR_GITHUB_USERNAME/E-Sports](https://github.com/Arun-152/E-sports)
 A real-time sports application providing live cricket and football scores, match details, league standings, and fixtures.
 
-### 🎬 [Netflix Clone](https://github.com/YOUR_GITHUB_USERNAME/Netflix-Clone)
+### 🎬 [Netflix Clone](https://github.com/Arun-152/netflix-clone)
 A responsive movie streaming interface with authentication, watchlist functionality, and modern React architecture.
 
 ---
@@ -80,13 +80,13 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 | Repository | Description |
 |---|---|
-| [JavaScript](https://github.com/YOUR_GITHUB_USERNAME/JavaScript) | Core JavaScript concepts and practice |
-| [LeetCode](https://github.com/YOUR_GITHUB_USERNAME/LeetCode) | Data structures & algorithms solutions |
-| [Car Wash Service](https://github.com/YOUR_GITHUB_USERNAME/Car-Wash-Service) | Service booking platform |
-| [E-Sports](https://github.com/YOUR_GITHUB_USERNAME/E-Sports) | Live sports score application |
-| [Netflix Clone](https://github.com/YOUR_GITHUB_USERNAME/Netflix-Clone) | Movie streaming interface clone |
-| [OLX Clone](https://github.com/YOUR_GITHUB_USERNAME/OLX-Clone) | Classifieds marketplace clone |
-| [AppyFiz](https://github.com/YOUR_GITHUB_USERNAME/AppyFiz) | Full-stack application project |
+| [JavaScript](https://github.com/Arun-152/JavaScript) | Core JavaScript concepts and practice |
+| [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
+| [Car Wash Service](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
+| [E-Sports](https://github.com/Arun-152/E-Sports) | Live sports score application |
+| [Netflix Clone](https://github.com/Arun-152/Netflix-Clone) | Movie streaming interface clone |
+| [OLX Clone](https://github.com/Arun-152/netflix-clone) | Classifieds marketplace clone |
+| [AppyFiz](https://github.com/Arun-152/AppyFiz) | Full-stack application project |
 
 ---
 
@@ -103,8 +103,8 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/arun-p-090626279)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arun-152)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
