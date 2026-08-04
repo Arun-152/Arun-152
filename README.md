@@ -90,12 +90,13 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 ---
 
-## 📊 GitHub Stats
- 
-<div align="center">
-![Leetcode Stats](https://leetcode.com/u/arunp234/) 
-</div>
+## 📊 Leetcode Stats
 
+<div align="center">
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/arunp234)](https://leetcode.com/u/arunp234/)
+
+</div>
 ---
 
 ## 🤝 Connect with Me
