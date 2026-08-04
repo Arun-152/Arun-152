@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Arun 👋
-### MERN Stack Full Stack Developer
+### MERN  Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=MERN+Stack+Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable%2C+User-Centric+Apps;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
