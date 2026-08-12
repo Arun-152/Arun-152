@@ -62,11 +62,15 @@ I'm a MERN Stack Full Stack Developer with experience building modern, scalable,
 
 ## 💼 Featured Projects
 
-### 🛒 [Shoezy](https://github.com/Arun-152/Shoezy)
-A full-featured e-commerce application with user authentication, product management, order processing, payment integration, and an administrative dashboard.
+### 🍔 [FoodCourt](https://foodcourt-swart.vercel.app/)
+
+A full-stack food ordering platform featuring user authentication, restaurant food browsing, cart and checkout management, online payment integration, order tracking, profile management, and an admin dashboard for managing users, products, and orders.
 
 ### 🚗 [Car Wash Service Booking System](https://car-wash-virid.vercel.app/)
 A service booking platform featuring online appointment scheduling, secure payment integration, booking management, and an admin panel.
+
+### 🛒 [Shoezy](https://github.com/Arun-152/Shoezy)
+A full-featured e-commerce application with user authentication, product management, order processing, payment integration, and an administrative dashboard.
 
 ### 🏆 [Sports Live Score Application](https://github.com/Arun-152/E-sports)
 A real-time sports application providing live cricket and football scores, match details, league standings, and fixtures.
