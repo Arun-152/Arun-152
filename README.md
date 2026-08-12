@@ -84,13 +84,16 @@ A responsive movie streaming interface with authentication, watchlist functional
 
 | Repository | Description |
 |---|---|
-| [StarBucks](https://github.com/Arun-152/starbucks_clone) |Starbucks application clone|
-| [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
+
+| [Foodcourt](https://github.com/Arun-152/foodcourt) | Full-stack application project |
 | [Car Wash Service](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
 | [E-Sports](https://github.com/Arun-152/E-Sports) | Live sports score application |
+| [StarBucks](https://github.com/Arun-152/starbucks_clone) |Starbucks application clone|
+| [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
 | [Netflix Clone](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
 | [OLX Clone](https://github.com/Arun-152/olx-clone) | Classifieds marketplace clone |
-| [AppyFiz](https://github.com/Arun-152/AppyFiz) | Full-stack application project |
+| [AppyFiz](https://github.com/Arun-152/AppyFiz) |AppyFiz application project  clone|
+
 
 ---
 
