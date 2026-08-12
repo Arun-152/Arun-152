@@ -92,12 +92,14 @@ A responsive movie streaming interface with authentication, watchlist functional
 
  
 ## 📈 GitHub Stats
- 
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Arun-152&theme=dark&hide_border=true" alt="Arun's GitHub Streak" height="165"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Arun-152&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Arun's GitHub Stats" height="165"/>
 
+<img src="https://streak-stats.demolab.com/?user=Arun-152&theme=dark&hide_border=true" alt="Arun's GitHub Streak" height="165"/>
+
+</div>
 
 ## 📊 Leetcode Stats
 
