@@ -69,7 +69,7 @@ A full-stack food ordering platform featuring user authentication, restaurant fo
 ### 🚗 [Car Wash Service Booking System](https://car-wash-virid.vercel.app/)
 A service booking platform featuring online appointment scheduling, secure payment integration, booking management, and an admin panel.
 
-### 🛒 [Shoezy](https://github.com/Arun-152/Shoezy)
+### 🛒 [Shoezy](https://shoezy-cz9i.onrender.com)
 A full-featured e-commerce application with user authentication, product management, order processing, payment integration, and an administrative dashboard.
 
 ### 🏆 [Sports Live Score Application](https://github.com/Arun-152/E-sports)
@@ -88,6 +88,7 @@ A responsive movie streaming interface with authentication, watchlist functional
 | [Foodcourt](https://github.com/Arun-152/foodcourt) | Full-stack application project |
 | [Car Wash Service](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
 | [E-Sports](https://github.com/Arun-152/E-Sports) | Live sports score application |
+| [Shoezy](https://github.com/Arun-152/Shoezy) |Ecommerce application|
 | [StarBucks](https://github.com/Arun-152/starbucks_clone) |Starbucks application clone|
 | [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
 | [Netflix Clone](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
