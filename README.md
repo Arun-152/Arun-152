@@ -79,21 +79,21 @@ A real-time sports application providing live cricket and football scores, match
 
 ## 📌 Repositories
 
-| Repository | Description |
-|---|---|
+<div align="center">
 
-| [Foodcourt](https://github.com/Arun-152/foodcourt) | Full-stack application project |
-| [Car Wash Service](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
-| [E-Sports](https://github.com/Arun-152/E-Sports) | Live sports score application |
-| [Shoezy](https://github.com/Arun-152/Shoezy) |Ecommerce application|
-| [StarBucks](https://github.com/Arun-152/starbucks_clone) |Starbucks application clone|
-| [LeetCode](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
-| [Netflix Clone](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
-| [OLX Clone](https://github.com/Arun-152/olx-clone) | Classifieds marketplace clone |
-| [AppyFiz](https://github.com/Arun-152/AppyFiz) |AppyFiz application project  clone|
+| | Repository | Description |
+|:---:|---|---|
+| 🍕 | [**Foodcourt**](https://github.com/Arun-152/foodcourt) | Full-stack food ordering application |
+| 🚗 | [**Car Wash Service**](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
+| 🏆 | [**E-Sports**](https://github.com/Arun-152/E-Sports) | Live sports score application |
+| 👟 | [**Shoezy**](https://github.com/Arun-152/Shoezy) | E-commerce application |
+| ☕ | [**StarBucks**](https://github.com/Arun-152/starbucks_clone) | Starbucks application clone |
+| 🧩 | [**LeetCode**](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
+| 🎬 | [**Netflix Clone**](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
+| 🛍️ | [**OLX Clone**](https://github.com/Arun-152/olx-clone) | Classifieds marketplace clone |
+| 📱 | [**AppyFiz**](https://github.com/Arun-152/AppyFiz) | AppyFiz application project clone |
 
-
----
+</div>
 
 📈 GitHub Stats
 <div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Arun-152&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Arun's GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arun-152&theme=dark&hide_border=true" alt="Arun's GitHub Streak" height="165"/> </div>
