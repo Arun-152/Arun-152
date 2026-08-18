@@ -75,9 +75,6 @@ A full-featured e-commerce application with user authentication, product managem
 ### 🏆 [Sports Live Score Application](https://github.com/Arun-152/E-sports)
 A real-time sports application providing live cricket and football scores, match details, league standings, and fixtures.
 
-### 🎬 [Netflix Clone](https://github.com/Arun-152/netflix-clone)
-A responsive movie streaming interface with authentication, watchlist functionality, and modern React architecture.
-
 ---
 
 ## 📌 Repositories
