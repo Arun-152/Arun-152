@@ -86,8 +86,8 @@ A real-time sports application providing live cricket and football scores, match
 | 🍕 | [**Foodcourt**](https://github.com/Arun-152/foodcourt) | Full-stack food ordering application |
 | 🚗 | [**Car Wash Service**](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
 | 🏆 | [**E-Sports**](https://github.com/Arun-152/E-Sports) | Live sports score application |
-| 👟 | [**Shoezy**](https://github.com/Arun-152/Portfolio) | Portfolio |
-| 📱 | [**Portfolio**](https://github.com/Arun-152/AppyFiz) | AppyFiz application project clone |
+| 👟 | [**Shoezy**](https://github.com/Arun-152/Shoezy) |E-commerce application|
+| 📱 | [**Portfolio**](https://github.com/Arun-152/AppyFiz) |  Portfolio |
 | ☕ | [**StarBucks**](https://github.com/Arun-152/starbucks_clone) | Starbucks application clone |
 | 🧩 | [**LeetCode**](https://github.com/Arun-152/LeetCode) | Data structures & algorithms solutions |
 | 🎬 | [**Netflix Clone**](https://github.com/Arun-152/netflix-clone) | Movie streaming interface clone |
