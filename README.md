@@ -106,7 +106,7 @@ A real-time sports application providing live cricket and football scores, match
 [![Leetcode Stats](https://leetcard.jacoblin.cool/arunp234)](https://leetcode.com/u/arunp234/)
 
 </div>
----
+
 
 ## 🤝 Connect with Me
 
@@ -114,7 +114,6 @@ A real-time sports application providing live cricket and football scores, match
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arun-152)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
----
 
 <div align="center">
 
