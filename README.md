@@ -72,7 +72,7 @@ A service booking platform featuring online appointment scheduling, secure payme
 ### 🛒 [Shoezy](https://shoezy-cz9i.onrender.com)
 A full-featured e-commerce application with user authentication, product management, order processing, payment integration, and an administrative dashboard.
 
-### 🏆 [Sports Live Score Application](https://github.com/Arun-152/E-sports)
+### 🏆 [Live-Soccer](https://github.com/Arun-152/Live-Soccer)
 A real-time sports application providing live cricket and football scores, match details, league standings, and fixtures.
 
 ---
@@ -85,7 +85,7 @@ A real-time sports application providing live cricket and football scores, match
 |:---:|---|---|
  [**Foodcourt**](https://github.com/Arun-152/foodcourt) | Full-stack food ordering application |
  [**Car Wash Service**](https://github.com/Arun-152/Car-Wash-Service) | Service booking platform |
- [**E-Sports**](https://github.com/Arun-152/E-Sports) | Live sports score application |
+ [**Live-Soccer**](https://github.com/Arun-152/Live-Soccer) | Live sports score application |
  [**Shoezy**](https://github.com/Arun-152/Shoezy) |E-commerce application|
  [**Portfolio**](https://github.com/Arun-152/Portfolio) |  Portfolio |
  [**StarBucks**](https://github.com/Arun-152/starbucks_clone) | Starbucks application clone |
